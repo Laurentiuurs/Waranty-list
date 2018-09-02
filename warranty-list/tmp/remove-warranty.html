@@ -1,0 +1,19 @@
+<html>
+<body style="background-color: #b2dba1">
+<h1>Garantia a expirat!</h1>
+<h2>Din pacate produsul dumneavoastra nu mai beneficiaza de garantie</h2>
+<p><a href="../warranty-list.html">Inapoi la lista garantiilor</a></p>
+
+<script>
+    var search = window.location.search.substring(1);
+    var keys = search.split("&");
+    var v = {};
+    keys.forEach(function(key){
+        var properties = key.split('=');
+        v[properties[0]] = properties[1];
+    });
+
+    document.write(JSON.stringify(v));
+</script>
+</body>
+</html>
