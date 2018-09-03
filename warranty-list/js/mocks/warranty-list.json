@@ -1,7 +1,7 @@
 [
 
-  {"id": 1, "numeProdus":"Hard-disk Seagate", "serieProdus": "SEA3344550H", "dataGarantiei": "01/02/17", "durata" : "2"},
-  {"id": 2, "numeProdus":"Mouse SilverCrest", "serieProdus": "SLVC112233M", "dataGarantiei": "03/07/18", "durata" : "2"},
-  {"id": 3, "numeProdus":"Monitor Asus", "serieProdus": "AS4567123M", "dataGarantiei": "09/09/18", "durata" : "2"},
-  {"id": 4, "numeProdus":"Boxe Nautilus", "serieProdus": "NAU098761234N", "dataGarantiei": "17/03/18", "durata" : "2"}
+  {"id": 1, "numeProdus":"Hard-disk Seagate", "serieProdus": "SEA3344550H", "dataGarantie": "01/02/17", "durata" : "2"},
+  {"id": 2, "numeProdus":"Mouse SilverCrest", "serieProdus": "SLVC112233M", "dataGarantie": "03/07/18", "durata" : "2"},
+  {"id": 3, "numeProdus":"Monitor Asus", "serieProdus": "AS4567123M", "dataGarantie": "09/09/18", "durata" : "2"},
+  {"id": 4, "numeProdus":"Boxe Nautilus", "serieProdus": "NAU098761234N", "dataGarantie": "17/03/18", "durata" : "2"}
 ]
